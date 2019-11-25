@@ -1,6 +1,6 @@
 #region 全体
-改行時(下に書きたいとき)をつける
-invalid syntaxになる
+#改行時(下に書きたいとき)
+#invalid syntaxになる
 #endregion
 
 #region print関数
